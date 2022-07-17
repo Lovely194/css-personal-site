@@ -1,0 +1,117 @@
+
+.top-container{
+    background-color: #FEFBF3;
+    padding-top: 80px;
+    position: relative; 
+    font-family:fantasy ;
+}
+.middle-container{
+   margin: 100px 0;
+   
+}
+.bottom-container{
+   
+   background-color: #66BFBF;
+}
+.bottom-container p{
+   color: #EAF6F6;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 13px;
+    background-color: white;
+    text-decoration: none;
+    padding: 2px;
+}
+hr{
+    border: dotted #5c2e19bb 6px;
+    border-bottom: none;
+    width:4%;
+    margin: 50px auto;
+}
+
+body{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    text-align: center;
+    font-size: 20px;
+    color: #40514E;
+    
+    
+}
+.top-container h1{
+    color: #66BFBF;
+    line-height: 2;
+}
+.top-container p{
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 2;
+    font-size: larger;
+}
+.middle-container p{
+    color: #40514E;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code-img {
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+p{
+    line-height: 2;
+}
+
+.biriyani-img{
+    height: 25%;
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+ h3{
+    color: #11999E;
+}
+.bottom-container a{
+    color: #11999E;
+}
+.contact-me a{
+    color: #11999E;
+}
+h1{
+    margin : 50px auto 0px auto;
+    font-family: 'Sacramento', cursive; 
+    font-size: 90px;
+    
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #66BFBF;
+    padding-bottom: 10px;
+    
+}
+.pro{
+    text-decoration: underline;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 430px;
+    top: 40px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 250px;
+ 
+}
